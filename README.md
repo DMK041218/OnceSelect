@@ -131,13 +131,6 @@ The released LoRA is the best adapter trained on the subset selected by the defa
 
 Download the LoRA from [`aaakiyasuqqqa/OnceSelect`](https://huggingface.co/aaakiyasuqqqa/OnceSelect/tree/main/llava7b_lora_b32) and verify it against the published checksum file before use.
 
-## Integrity
-
-SHA-256 digests for repository files are provided in `SHA256SUMS`; hashes for the weights hosted on Hugging Face are listed in `ARTIFACT_SHA256SUMS`. Run:
-
-```bash
-shasum -a 256 -c SHA256SUMS
-```
 
 ## Citation
 
