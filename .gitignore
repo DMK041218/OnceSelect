@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+work/
+*.part
+checkpoints/llava7b_lora_b32/adapter_model.safetensors
+checkpoints/llava7b_lora_b32/non_lora_trainables.bin
+checkpoints/selector_b32/selector.pt
+checkpoints/selector_b32/clustering.pt
