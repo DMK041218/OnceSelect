@@ -1,3 +1,4 @@
+[Uploading 10.1007_978-3-032-37577-3_29-citation (1).bib…]()
 # OnceSelect
 
 Official implementation and pretrained artifacts for **OnceSelect: a reusable data selector for multimodal instruction tuning**.
@@ -143,5 +144,14 @@ Download the LoRA from [`aaakiyasuqqqa/OnceSelect`](https://huggingface.co/aaaki
       archivePrefix={arXiv},
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2605.26761}, 
+}
+@misc{dong2026visnecmeasuringleveragingvisual,
+      title={VisNec: Measuring and Leveraging Visual Necessity for Multimodal Instruction Tuning}, 
+      author={Mingkang Dong and Hongyi Cai and Jie Li and Sifan Zhou and Bin Ren and Kunyu Peng and Yuqian Fu},
+      year={2026},
+      eprint={2603.01195},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2603.01195}, 
 }
 ```
