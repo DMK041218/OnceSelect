@@ -134,4 +134,14 @@ Download the LoRA from [`aaakiyasuqqqa/OnceSelect`](https://huggingface.co/aaaki
 
 ## Citation
 
-Citation information will be added with the public paper release.
+```
+@misc{dong2026onceselectreusabledataselection,
+      title={OnceSelect: Reusable Data Selection for Efficient Multimodal Instruction Tuning}, 
+      author={Mingkang Dong and Muxin Pu and Hongyi Cai and JieLi and Jiancheng Pan and Xu Zheng and Yadan Luo and Yuqian Fu},
+      year={2026},
+      eprint={2605.26761},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2605.26761}, 
+}
+```
